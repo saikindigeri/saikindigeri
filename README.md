@@ -35,7 +35,7 @@
 ## 🌟 Featured Projects
 
 ### Nxt Watch Platform
-![Nxt Watch GIF](sainxtcart.ccbp.tech)
+(https://sainxtcart.ccbp.tech)
 - A YouTube-inspired application featuring trending videos, gaming content, and more.
 - **Technologies:** React, JavaScript, CSS, Bootstrap, JWT, REST API, Local Storage.
 
