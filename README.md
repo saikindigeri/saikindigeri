@@ -40,7 +40,7 @@
 - **Technologies:** React, JavaScript, CSS, Bootstrap, JWT, REST API, Local Storage.
 
 ### Keep Notes
-![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFLlRlSgDN3WvYq7xNtQInQTV7FuCRJOepjw&s](https://keep-backend-smoky.vercel.app/)
+!(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFLlRlSgDN3WvYq7xNtQInQTV7FuCRJOepjw&s)(https://keep-backend-smoky.vercel.app/)
 - A Google Keep clone with note management, search, labels, and more.
 - **Technologies:** HTML, CSS, JavaScript, Node.js, MySQL.
 
