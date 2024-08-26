@@ -35,12 +35,12 @@
 ## 🌟 Featured Projects
 
 ### Nxt Watch Platform
-(https://sainxtcart.ccbp.tech)
+(https://saikwatch.ccbp.tech)
 - A YouTube-inspired application featuring trending videos, gaming content, and more.
 - **Technologies:** React, JavaScript, CSS, Bootstrap, JWT, REST API, Local Storage.
 
 ### Keep Notes
-![Keep Notes GIF](https://media.giphy.com/media/YOUR_GIF_URL/giphy.gif)
+![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFLlRlSgDN3WvYq7xNtQInQTV7FuCRJOepjw&s](https://keep-backend-smoky.vercel.app/)
 - A Google Keep clone with note management, search, labels, and more.
 - **Technologies:** HTML, CSS, JavaScript, Node.js, MySQL.
 
