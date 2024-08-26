@@ -40,14 +40,14 @@
 - **Technologies:** React, JavaScript, CSS, Bootstrap, JWT, REST API, Local Storage.
 
 ### Keep Notes
-!(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFLlRlSgDN3WvYq7xNtQInQTV7FuCRJOepjw&s)(https://keep-backend-smoky.vercel.app/)
+(https://keep-backend-smoky.vercel.app/)
 - A Google Keep clone with note management, search, labels, and more.
 - **Technologies:** HTML, CSS, JavaScript, Node.js, MySQL.
 
-### Blog Application
-![Blog Application GIF](https://media.giphy.com/media/YOUR_GIF_URL/giphy.gif)
-- A basic blog application with advanced frontend features and backend integration.
-- **Technologies:** React, Node.js, Express, MySQL, SQLite.
+### Real Estate Application
+(https://totality-frontend-challenge-rust.vercel.app/)
+- A dynamic real estate application with property listings, search, and filters.
+- **Technologies:** React, Node.js, Express, MongoDB, Bootstrap.
 
 ## 🌱 Currently Learning
 - **Blockchain Development**: Smart contracts, Ethereum, Solidity, and dApp development.
