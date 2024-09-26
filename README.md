@@ -7,8 +7,10 @@
 💼 **Looking to collaborate** on exciting projects in **Web3** and **Full Stack Development**.
 
 ## 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/sai-kumar-kindigeri)
-- [Gmail](mailto:saikumarkindigeri@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/saikumarkindigeri)
+- [Gmail](mailto:saidev080@gmail.com)
+- [Instagram](https://www.instagram.com/saixdev/)
+- [Twitter](https://x.com/Devaa_Sai)
 
 ---
 
