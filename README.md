@@ -23,14 +23,15 @@ A **YouTube-inspired** application.
 A **Google Keep clone** for note management.
 **Technologies:** HTML, CSS, Node.js, MySQL.
 
-### [**Real Estate Application**](https://totality-frontend-challenge-rust.vercel.app/)
-A **property listings** app with search & filters.
-**Technologies:** React, Node.js, MongoDB.
+### [**Chat Application**](https://wsocket.vercel.app/)
+A **real-time chat application** with message rooms and user authentication.
+**Technologies:** React, Node.js, WebSockets, MongoDB.
 
 ## 📚 **Currently Learning**
 - **Blockchain:** Smart Contracts, Solidity, Ethereum
 - **Web3:** Decentralized web tools
 
 Let’s connect and build something awesome together! 💥
+
 
 
