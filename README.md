@@ -4,7 +4,7 @@ I'm passionate about **Full Stack Development**, diving deep into the realms of 
 
 ## 🌐 **How to reach me:**
 - [**LinkedIn**](https://www.linkedin.com/in/saikumarkindigeri)
-- [**Gmail**](mailto:saidev080@gmail.com)
+- [**Gmail**](mailto:saikumardev018@gmail.com)
 - [**Instagram**](https://www.instagram.com/saixdev/)
 - [**Twitter**](https://x.com/Devaa_Sai)
 
