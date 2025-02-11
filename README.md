@@ -9,9 +9,9 @@ I'm passionate about **Full Stack Development**, diving deep into the realms of 
 - [**Twitter**](https://x.com/Devaa_Sai)
 
 ## 💼 **Skills**
-- **Frontend:** React, Next.js, TypeScript
+- **Frontend:** React, Next.js, TypeScript, JavaScript 
 - **Backend:** Node.js, Express.js, Python
-- **Databases:** MongoDB, MySQL, SQLite
+- **Databases:** MongoDB, SQL,
 - **Blockchain:** Web3, Solidity, Ethereum
 
 ## 🚀 **Featured Projects**
